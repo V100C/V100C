@@ -1,4 +1,4 @@
-## Bonjour tout le monde 👋, comment ça va ?
+## Bonjour tout le monde 👋, comment ça va la compagnie ?
 
 <!--
 **V100C/V100C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
